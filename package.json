@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "The application must have these classes: Employee, Manager, Engineer, and Intern. The tests for these classes (in the _tests_ directory) must all pass.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisandb/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisandb/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/marisandb/team-profile-generator#readme"
+}
